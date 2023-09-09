@@ -12,3 +12,5 @@ My Modrinth projects: https://modrinth.com/user/Kasualix
 Ko-fi donation: https://ko-fi.com/kasualix
 
 Contact me on Discord: Kasualix
+____
+Not only mod problems, you can also create issues for misc questions/suggestions, forge-fabric/mc-versions port requests.
