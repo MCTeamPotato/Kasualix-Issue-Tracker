@@ -1,7 +1,7 @@
 # Kasualix's Issue Tracker
 Global issue tracker for my mods.
 
-Don't report other team members' mods issues here.
+Don't report other team members' mods issues here, pls go to their own issue tracker(s).
 
 When reporting issues, please remember to specify which mod.
 ____
