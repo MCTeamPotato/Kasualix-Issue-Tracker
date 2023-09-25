@@ -13,4 +13,6 @@ Ko-fi donation: https://ko-fi.com/kasualix
 
 Contact me on Discord: Kasualix
 ____
-Not only mod problems, you can also create issues for misc questions/suggestions, forge-fabric/mc-versions port requests.
+Not only mod problems, you can also create issues for any misc questions/suggestions, forge-fabric/mc-versions port requests.
+
+Or you just need help for your crash problems even they're not related to my mods? Come on!
