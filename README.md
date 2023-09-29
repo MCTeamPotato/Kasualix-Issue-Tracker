@@ -12,6 +12,8 @@ My Modrinth projects: https://modrinth.com/user/Kasualix
 Ko-fi donation: https://ko-fi.com/kasualix
 
 Contact me on Discord: Kasualix
+
+Join Team Potato Server: https://discord.gg/ZywV7DVWhW
 ____
 Not only mod problems, you can also create issues for any misc questions/suggestions, forge-fabric/mc-versions port requests.
 
