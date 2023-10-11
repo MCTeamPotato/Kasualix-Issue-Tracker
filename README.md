@@ -3,7 +3,7 @@
 
 Don't report other team members' mods issues here, pls go to their own issue tracker(s).
 
-When reporting issues, please remember to specify which mod.
+**When reporting issues, please remember to specify which mod.**
 ____
 My CurseForge projects: https://legacy.curseforge.com/members/potato_____boy/projects
 
