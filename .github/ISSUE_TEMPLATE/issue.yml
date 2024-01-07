@@ -1,9 +1,9 @@
 name: New Issue
 body:
   - type: input
-    id: specific mod for which you open this issue
+    id: specific-mod
     attributes:
-      label: Related Mod
+      label: Specific mod for which you open this issue
       placeholder: e.g. GhostJump
     validations:
       required: true
