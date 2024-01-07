@@ -1,4 +1,5 @@
 name: New Issue
+description: Follow this template.
 body:
   - type: input
     id: specific-mod
