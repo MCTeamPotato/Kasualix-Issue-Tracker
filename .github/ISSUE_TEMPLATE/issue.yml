@@ -19,3 +19,7 @@ body:
     attributes:
       label: Latest log
       description: "Use [gist](https://gist.github.com/) / [pastebin](https://pastebin.com/) / etc instead of spamming them here."
+  - type: textarea
+    attributes:
+      label: Issue description
+      placeholder: "Other stuff that you wanna say"
