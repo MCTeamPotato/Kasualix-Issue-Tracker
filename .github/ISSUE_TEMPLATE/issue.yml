@@ -1,0 +1,20 @@
+name: New Issue
+body:
+  - type: input
+    id: specific mod for which you open this issue
+    attributes:
+      label: Related Mod
+      placeholder: e.g. GhostJump
+    validations:
+      required: true
+  - type: input
+    id: version-info
+    attributes:
+      label: MC version & mod version
+      placeholder: e.g. mc1165, mod v1.0.0
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Latest log
+      description: "Use a paste site such as [gist](https://gist.github.com/) / [pastebin](https://pastebin.com/) / etc instead of spamming them here."
