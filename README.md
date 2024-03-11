@@ -12,4 +12,3 @@ Ko-fi donation: https://ko-fi.com/kasualix
 Contact me on Discord: Kasualix
 
 Join Team Potato Server: https://discord.gg/ZywV7DVWhW
-____
