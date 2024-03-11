@@ -11,8 +11,8 @@ body:
   - type: input
     id: version-info
     attributes:
-      label: MC version & mod version
-      placeholder: e.g. mc1165, mod v1.0.0
+      label: MC version & mod version & loader version
+      placeholder: e.g. mc 1.16.5, mod v1.0.0, forge 36.2.39
     validations:
       required: true
   - type: input
