@@ -21,5 +21,5 @@ body:
       description: "Use [gist](https://gist.github.com/) / [pastebin](https://pastebin.com/) / etc instead of spamming them here."
   - type: textarea
     attributes:
-      label: Issue description
-      placeholder: "Other stuff that you wanna say"
+      label: Steps to reproduce your issue
+      placeholder: "Other stuff that you wanna say, and a list of detailed steps to stably reproduce your issue."
